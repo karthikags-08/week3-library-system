@@ -1,4 +1,4 @@
-# 📚 Console-Based Library Management System (Java)
+# 📚Week 3 Library Management System (Java)
 
 A Java console application to manage **books**, **members**, and **borrowing operations** with **file-based data persistence** using Object Serialization.
 
@@ -39,8 +39,8 @@ week3-library-system/
 
 Open terminal in project folder:
 
-javac src/main/java/library/*.java -d bin
-java -cp bin library.Main
+javac Main.java
+java Main
 
 ---
 
@@ -87,4 +87,4 @@ java -cp bin library.Main
 
 ## 👩‍💻 Author
 
-Kar
+Karthika
